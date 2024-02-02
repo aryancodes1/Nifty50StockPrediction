@@ -4,7 +4,7 @@
 ![Alt text](accuracy.png)
 
 ## How To Use
-- Clone Git Repositry
+- Clone Git Repository
 - Install All Requirements
 - Use show_accuracy() and predict_next_day() functions in analysis.py
 
